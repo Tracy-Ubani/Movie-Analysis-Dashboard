@@ -38,10 +38,10 @@ The primary objective is to analyze the movie dataset effectively and generate s
 
 # Tools Used
 
-. **Excel:** For initial data cleaning and formatting.
-. **SQL:** This is used to run queries on the dataset to answer key questions about the data.
-. **Power Query:** This is for data transformation and combining columns like budget and revenue.
-. **Power BI:** For interactive data visualization and dashboard creation.
+  - **Excel:** For initial data cleaning and formatting.
+  - **SQL:** This is used to run queries on the dataset to answer key questions about the data.
+  - **Power Query:** This is for data transformation and combining columns like budget and revenue.
+  - **Power BI:** For interactive data visualization and dashboard creation.
 
 # Conclusion
 The interactive movie analysis dashboard built in Power BI provides essential insights into the performance of movies, allowing data-driven decision-making. The dashboard’s dynamic interface enables users to filter and explore critical movie metrics such as gross revenue, ratings, and audience engagement.
